@@ -76,8 +76,8 @@ docker stop home-assistant
 **Add-ons:** Explore official add-ons for enhanced functionality.
 
 **- Docker Compose:** Use Docker Compose for managing multi-container setups, such as combining Home Assistant with databases or additional services.
------
 
+-----
 **Conclusion:**
 
 By following this guide, you successfully deployed Home Assistant using Docker. This setup enables you to automate and control various smart home devices efficiently. Docker ensures that the deployment is portable, scalable, and easy to maintain.
