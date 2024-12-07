@@ -64,13 +64,12 @@ docker stop home-assistant
 
 **Remove the Container:**
 
-docker rm home-assistant
------
+ docker rm home-assistant
 
+------
 **Advanced Features**
 ------
 **Future Improvements**
-------
 
 **Backup & Restore:** Learn how to backup and restore Home Assistant configurations.
 
