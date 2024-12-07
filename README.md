@@ -65,16 +65,19 @@ docker stop home-assistant
 **Remove the Container:**
 
 docker rm home-assistant
+-----
 
 **Advanced Features**
-
+------
 **Future Improvements**
+------
 
 **Backup & Restore:** Learn how to backup and restore Home Assistant configurations.
 
 **Add-ons:** Explore official add-ons for enhanced functionality.
 
 **- Docker Compose:** Use Docker Compose for managing multi-container setups, such as combining Home Assistant with databases or additional services.
+-----
 
 **Conclusion:**
 
