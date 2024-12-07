@@ -79,6 +79,7 @@ docker stop home-assistant
 
 -----
 **Conclusion:**
+------
 
 By following this guide, you successfully deployed Home Assistant using Docker. This setup enables you to automate and control various smart home devices efficiently. Docker ensures that the deployment is portable, scalable, and easy to maintain.
 
